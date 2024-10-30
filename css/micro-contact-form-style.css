@@ -1,0 +1,10 @@
+.micro-contact-form-required {
+    font-weight: bold;
+    color: #ff0000;
+}
+.micro-contact-form-success {
+    font-weight: bold;
+}
+#micro-contact-form-submission .micro-contact-form-error {
+    border: 1px solid #ff0000;
+}
